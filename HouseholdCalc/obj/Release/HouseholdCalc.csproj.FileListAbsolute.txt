@@ -1,0 +1,15 @@
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\bin\Release\HouseholdCalc.exe.config
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\bin\Release\HouseholdCalc.exe
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\bin\Release\HouseholdCalc.pdb
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.csproj.AssemblyReference.cache
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\MainWindow.g.cs
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\App.g.cs
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc_MarkupCompile.cache
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc_MarkupCompile.lref
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\MainWindow.baml
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.g.resources
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.Properties.Resources.resources
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.csproj.GenerateResource.cache
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.csproj.CoreCompileInputs.cache
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.exe
+C:\Users\liuyong\Desktop\HouseholdCalc\HouseholdCalc\obj\Release\HouseholdCalc.pdb
